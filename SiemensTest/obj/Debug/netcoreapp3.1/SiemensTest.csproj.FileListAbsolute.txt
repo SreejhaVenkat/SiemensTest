@@ -1,0 +1,13 @@
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.exe
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.deps.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.runtimeconfig.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.runtimeconfig.dev.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.dll
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\SiemensTest.pdb
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.csprojAssemblyReference.cache
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.AssemblyInfoInputs.cache
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.AssemblyInfo.cs
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.csproj.CoreCompileInputs.cache
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.dll
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.pdb
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\SiemensTest.genruntimeconfig.cache

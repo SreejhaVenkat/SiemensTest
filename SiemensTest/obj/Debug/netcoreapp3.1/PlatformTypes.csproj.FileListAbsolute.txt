@@ -1,0 +1,12 @@
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.exe
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.deps.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.runtimeconfig.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.runtimeconfig.dev.json
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.dll
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\bin\Debug\netcoreapp3.1\PlatformTypes.pdb
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.AssemblyInfoInputs.cache
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.AssemblyInfo.cs
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.csproj.CoreCompileInputs.cache
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.dll
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.pdb
+C:\Users\SESA300311\source\repos\SiemensTest\SiemensTest\obj\Debug\netcoreapp3.1\PlatformTypes.genruntimeconfig.cache
